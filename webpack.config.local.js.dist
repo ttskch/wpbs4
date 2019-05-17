@@ -1,0 +1,3 @@
+module.exports = {
+  publicPathToTheme: '/wp-content/themes/wpbs4',
+};
